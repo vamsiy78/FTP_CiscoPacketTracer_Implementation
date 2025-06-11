@@ -26,7 +26,6 @@ The simulated network employs a basic but functional topology designed to demons
 ### Visual Representation
 
 ![Network Topology Screenshot](Screenshots/Topology.png)
-*(Replace `Screenshots/topology_screenshot.png` with the actual path to your image)*
 
 ## Configuration Steps
 
