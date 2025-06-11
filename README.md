@@ -25,7 +25,7 @@ The simulated network employs a basic but functional topology designed to demons
 
 ### Visual Representation
 
-![Network Topology Screenshot](Screenshots/topology_screenshot.png)
+![Network Topology Screenshot](Screenshots/Topology.png)
 *(Replace `Screenshots/topology_screenshot.png` with the actual path to your image)*
 
 ## Configuration Steps
@@ -68,7 +68,7 @@ While largely successful, the project presented opportunities to troubleshoot co
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/your-repo-name.git](https://github.com/YourGitHubUsername/your-repo-name.git)
+    git clone [https://github.com/Vamsiy78/FTP_CiscoPacketTracer_Implementation.git](https://github.com/Vamsiy78/FTP_CiscoPacketTracer_Implementation.git)
     ```
 2.  **Open the Packet Tracer File:**
     * Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
