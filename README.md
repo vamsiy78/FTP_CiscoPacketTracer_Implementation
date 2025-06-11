@@ -71,7 +71,7 @@ While largely successful, the project presented opportunities to troubleshoot co
     ```
 2.  **Open the Packet Tracer File:**
     * Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer).
-    * Open `vamc_Cisco_Project.pkt` using Cisco Packet Tracer.
+    * Open `vamc_CiscoProject.pkt` using Cisco Packet Tracer.
 3.  **Follow Configuration Steps:**
     * Refer to the "Configuration Steps" section in this README and potentially the `Configuration_Notes.md` file for detailed instructions on how the FTP server and clients were set up.
 4.  **Run the Simulation:**
